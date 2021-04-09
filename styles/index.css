@@ -169,7 +169,7 @@ header {
 /*Story section*/
 
 .story_section {
-	background: url(img/story_bg.png);
+	background: url(../img/story_bg.png);
 	background-size: cover;
 	height: 660px;
 }
