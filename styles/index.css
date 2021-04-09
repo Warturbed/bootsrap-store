@@ -147,7 +147,7 @@ header {
 }
 .slogan_section {
 	color: #ffffff;
-	background: url(img/back_slogan.png);
+	background: url(../img/back_slogan.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
