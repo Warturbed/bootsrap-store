@@ -120,10 +120,18 @@
             "floor": 1,
             "price": 6671314
         },
-         {   
+        {   
             "id": "16",
             "img": "img/flat-img.png",
             "rooms": "4-комнатная №104",
+            "size": "63,6",
+            "floor": 1,
+            "price": 6671314
+        },
+        {   
+            "id": "17",
+            "img": "img/flat-img.png",
+            "rooms": "5-комнатная №104",
             "size": "63,6",
             "floor": 1,
             "price": 6671314
