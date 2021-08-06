@@ -3,7 +3,7 @@
         {   
             "id": "1",
             "img": "img/flat-img.png",
-            "rooms": "3-комнатная №104",
+            "rooms": "2-комнатная №104",
             "size": "63,2",
             "floor": 1,
             "price": 5630500
@@ -11,7 +11,7 @@
         {   
             "id": "2",
             "img": "img/flat-img.png",
-            "rooms": "3-комнатная №104",
+            "rooms": "2-комнатная №104",
             "size": "63,2",
             "floor": 1,
             "price": 6650759
@@ -19,7 +19,7 @@
         {   
             "id": "3",
             "img": "img/flat-img.png",
-            "rooms": "3-комнатная №104",
+            "rooms": "2-комнатная №104",
             "size": "63,2",
             "floor": 1,
             "price": 6650759
@@ -27,7 +27,7 @@
         {   
             "id": "4",
             "img": "img/flat-img.png",
-            "rooms": "3-комнатная №104",
+            "rooms": "2-комнатная №104",
             "size": "63,6",
             "floor": 1,
             "price": 6671314
@@ -35,7 +35,7 @@
         {   
             "id": "5",
             "img": "img/flat-img.png",
-            "rooms": "3-комнатная №104",
+            "rooms": "2-комнатная №104",
             "size": "63,1",
             "floor": 1,
             "price": 6679554
@@ -79,6 +79,46 @@
             "size": "63,1",
             "floor": 1,
             "price": 6679554
+        }
+        {   
+            "id": "11",
+            "img": "img/flat-img.png",
+            "rooms": "2-комнатная №104",
+            "size": "63,1",
+            "floor": 1,
+            "price": 6679554
+        },
+        {   
+            "id": "12",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 5630500
+        },
+        {   
+            "id": "13",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 6650759
+        },
+        {   
+            "id": "14",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 6650759
+        },
+        {   
+            "id": "15",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,6",
+            "floor": 1,
+            "price": 6671314
         }
      ]
 }
