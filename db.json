@@ -135,6 +135,78 @@
             "size": "63,6",
             "floor": 1,
             "price": 6671314
+        },
+        {   
+            "id": "18",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 6650759
+        },
+        {   
+            "id": "19",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 6650759
+        },
+        {   
+            "id": "20",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,6",
+            "floor": 1,
+            "price": 6671314
+        },
+        {   
+            "id": "21",
+            "img": "img/flat-img.png",
+            "rooms": "3-комнатная №104",
+            "size": "63,1",
+            "floor": 1,
+            "price": 6679554
+        },
+        {   
+            "id": "22",
+            "img": "img/flat-img.png",
+            "rooms": "1-комнатная №104",
+            "size": "63,1",
+            "floor": 1,
+            "price": 6679554
+        },
+        {   
+            "id": "23",
+            "img": "img/flat-img.png",
+            "rooms": "1-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 5630500
+        },
+        {   
+            "id": "24",
+            "img": "img/flat-img.png",
+            "rooms": "1-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 6650759
+        },
+        {   
+            "id": "25",
+            "img": "img/flat-img.png",
+            "rooms": "1-комнатная №104",
+            "size": "63,2",
+            "floor": 1,
+            "price": 6650759
+        },
+        {   
+            "id": "26",
+            "img": "img/flat-img.png",
+            "rooms": "1-комнатная №104",
+            "size": "63,6",
+            "floor": 1,
+            "price": 6671314
         }
      ]
 }
